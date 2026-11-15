@@ -1,9 +1,8 @@
----
-title: "introduction-to-container-management)"
-description: "A comprehensive technical breakdown and implementation guide."
+---title: "Mastering Container Management with Docker and containerd Tools"
+description: "Understand the core architecture of Docker and containerd runtimes, container lifecycle management, and CLI debugging tools for production systems."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['docker', 'containerd', 'containers', 'linux']
 ---
 
 **Mastering Container Management with Docker and containerd Tools**

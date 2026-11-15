@@ -1,5 +1,4 @@
----
-title: "Simplifying Container Networking: A Comprehensive Guide to Docker Swarm and Kubernetes Networking Setup"
+---title: "Simplifying Container Networking: A Comprehensive Guide to Docker Swarm and Kubernetes Networking Setup"
 description: "Learn how to configure container networking for Docker Swarm and Kubernetes. Discover the best practices for networking in containerized environments."
 pubDate: "2025-04-01"
 author: "Yash"

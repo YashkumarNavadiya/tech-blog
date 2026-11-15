@@ -1,5 +1,4 @@
----
-title: "Automate Server Deployments with Ansible & GitOps: A Developer’s Guide"
+---title: "Automate Server Deployments with Ansible & GitOps: A Developer’s Guide"
 slug: "automate-server-deployments-ansible-gitops"
 date: "2025-04-05"
 description: "Master server automation using Ansible and GitOps principles to deploy, manage, and scale infrastructure reliably — without manual intervention."

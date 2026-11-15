@@ -1,5 +1,4 @@
----
-title: "Set Up a Home Lab with Proxmox VE for Beginners"
+---title: "Set Up a Home Lab with Proxmox VE for Beginners"
 slug: "setup-home-lab-proxmox-ve-beginners"
 date: "2024-06-15"
 description: "Learn how to build a powerful, cost-effective home lab using Proxmox VE — ideal for beginners. Step-by-step setup, hardware recommendations, and best practices to get started today."

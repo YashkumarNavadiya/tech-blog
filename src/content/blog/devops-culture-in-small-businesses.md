@@ -1,9 +1,8 @@
----
-title: "Embracing DevOps Culture in Small Businesses: The Key to Scaling Success"
-description: "Discover how small businesses canadopt DevOps culture to improve collaboration, agility, and quality, driving success and growth in a rapidly changing market."
+---title: "Embracing DevOps Culture in Small Businesses: The Key to Scaling"
+description: "How startups and small engineering teams can adopt continuous integration, automated testing, and blameless post-mortems to deliver faster."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['devops', 'culture', 'startups', 'management']
 ---
 
 H1: Embracing DevOps Culture in Small Businesses

@@ -1,9 +1,8 @@
----
-title: "## 1. `ReplicaSet` -  Guaranteed Num Deployment Pods"
-description: "A comprehensive technical breakdown and implementation guide."
+---title: "Container Orchestration with Kubernetes: Deployment Strategies"
+description: "A deep dive into Kubernetes deployment strategies including Rolling Updates, Blue/Green deployments, and Canary releases for high-availability workloads."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['kubernetes', 'devops', 'containers', 'ci-cd']
 ---
 
 **Container Orchestration with Kubernetes: Deployment Strategies**

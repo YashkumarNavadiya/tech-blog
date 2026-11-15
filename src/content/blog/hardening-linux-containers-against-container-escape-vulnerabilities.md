@@ -1,5 +1,4 @@
----
-title: "Protecting Your Data: Hardening Linux Containers Against Container Escape Vulnerabilities"
+---title: "Protecting Your Data: Hardening Linux Containers Against Container Escape Vulnerabilities"
 description: "A comprehensive technical breakdown and implementation guide."
 pubDate: "2025-04-01"
 author: "Yash"

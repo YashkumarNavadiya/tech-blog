@@ -1,5 +1,4 @@
----
-title: "Ensuring Cloud Storage Security Best Practices for AWS: A Comprehensive Guide"
+---title: "Ensuring Cloud Storage Security Best Practices for AWS: A Comprehensive Guide"
 description: "Safeguard your AWS cloud storage with our expert guide to security best practices. Learn how to strengthen your AWS security posture and protect sensitive data."
 pubDate: "2025-04-01"
 author: "Yash"

@@ -1,9 +1,8 @@
----
-title: "## 1. **Escalating Attack Surface from Dynamic Infrastructure"
-description: "A comprehensive technical breakdown and implementation guide."
+---title: "Cloud-Native Security Challenges: Navigating Modern DevOps"
+description: "Explore the critical security challenges of containerized and cloud-native architectures, with practical mitigations for dynamic infrastructure and supply chain risks."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['cloud-native', 'security', 'kubernetes', 'devops']
 ---
 
 **Cloud-Native Security Challenges: Navigating the Complex Landscape of Modern DevOps**

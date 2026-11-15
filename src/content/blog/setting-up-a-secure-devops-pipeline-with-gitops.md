@@ -1,9 +1,8 @@
----
-title: "## Step 1: Create a Git Repository"
-description: "A comprehensive technical breakdown and implementation guide."
+---title: "Setting Up a Secure DevOps Pipeline with GitOps: A Step-by-Step Guide"
+description: "Build a declarative, security-first CI/CD pipeline using GitOps methodologies, automated vulnerability scanning, and infrastructure-as-code validation."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['gitops', 'devops', 'security', 'ci-cd']
 ---
 
 **Setting Up a Secure DevOps Pipeline with GitOps: A Step-by-Step Guide**

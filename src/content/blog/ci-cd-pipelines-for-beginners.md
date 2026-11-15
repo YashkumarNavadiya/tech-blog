@@ -1,5 +1,4 @@
----
-title: "Simplifying CI/CD Pipelines: A Beginner's Guide"
+---title: "Simplifying CI/CD Pipelines: A Beginner's Guide"
 description: "A comprehensive technical breakdown and implementation guide."
 pubDate: "2025-04-01"
 author: "Yash"

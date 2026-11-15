@@ -1,5 +1,4 @@
----
-title: "Setting Up Proxmox VE High Availability Clusters for Home Labs"
+---title: "Setting Up Proxmox VE High Availability Clusters for Home Labs"
 description: "A comprehensive technical breakdown and implementation guide."
 pubDate: "2025-04-01"
 author: "Yash"

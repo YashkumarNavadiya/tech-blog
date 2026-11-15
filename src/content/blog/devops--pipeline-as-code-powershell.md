@@ -1,9 +1,8 @@
----
-title: "Empowering DevOps with Pipeline-as-Code using PowerShell"
-description: "Discover the power of pipeline-as-code with PowerShell, a DevOps best practice for automating deployment and testing processes, multi-cloud support, and version control. Learn how to implement pipeline-as-code effectively."
+---title: "Empowering DevOps with Pipeline-as-Code using PowerShell"
+description: "Harness PowerShell for enterprise pipeline-as-code automation, infrastructure testing, and cross-platform CI/CD integration."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['powershell', 'devops', 'automation', 'ci-cd']
 ---
 
 1. **Introduction**: Explaining the significance of pipeline-as-code

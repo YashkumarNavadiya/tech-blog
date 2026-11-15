@@ -1,5 +1,4 @@
----
-title: "Securing Your Home Lab: Hardening Linux and Network Services"
+---title: "Securing Your Home Lab: Hardening Linux and Network Services"
 description: "Turn your home lab into a hardened security fortress with Linux hardening, firewall rules, SSH protection, and service minimization techniques."
 pubDate: "2025-04-05"
 tags: ["Linux Security", "Home Lab", "Firewall", "SSH Hardening", "Network Services"]

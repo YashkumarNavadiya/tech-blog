@@ -1,9 +1,8 @@
----
-title: "## Step 1: Connect and Boot"
-description: "A comprehensive technical breakdown and implementation guide."
+---title: "Home Server Setup Guide: Securing Your Personal Cloud"
+description: "Step-by-step instructions for selecting hardware, configuring Linux, securing network access, and establishing a private self-hosted cloud server."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['homelab', 'linux', 'self-hosting', 'security']
 ---
 
 **Home Server Setup Guide: A Step-by-Step Guide to Securing Your Personal Cloud**

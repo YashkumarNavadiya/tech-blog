@@ -1,5 +1,4 @@
----
-title: "Implementing Zero Trust Security Architecture In Cloud Environment"
+---title: "Implementing Zero Trust Security Architecture In Cloud Environment"
 description: "A comprehensive technical breakdown and implementation guide."
 pubDate: "2025-04-01"
 author: "Yash"

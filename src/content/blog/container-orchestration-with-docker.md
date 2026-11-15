@@ -1,9 +1,8 @@
----
-title: "## Call to Action"
-description: "A comprehensive technical breakdown and implementation guide."
+---title: "Container Orchestration with Docker: A Comprehensive Guide"
+description: "Learn how to orchestrate Docker containers at scale, automate container deployment, manage service discovery, and optimize host resources."
 pubDate: "2025-04-01"
 author: "Yash"
-tags: ["devops", "cloud", "security"]
+tags: ['docker', 'containers', 'orchestration', 'devops']
 ---
 
 **Container Orchestration with Docker: A Comprehensive Guide**
