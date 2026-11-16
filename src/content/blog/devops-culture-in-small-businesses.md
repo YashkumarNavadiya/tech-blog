@@ -1,4 +1,5 @@
----title: "Embracing DevOps Culture in Small Businesses: The Key to Scaling"
+---
+title: "Embracing DevOps Culture in Small Businesses: The Key to Scaling"
 description: "How startups and small engineering teams can adopt continuous integration, automated testing, and blameless post-mortems to deliver faster."
 pubDate: "2025-04-01"
 author: "Yash"

@@ -1,4 +1,5 @@
----title: "Implementing Kubernetes in Home Labs: A Step-by-Step Guide"
+---
+title: "Implementing Kubernetes in Home Labs: A Step-by-Step Guide"
 description: "Set up and manage a lightweight multi-node Kubernetes cluster (k3s/MicroK8s) in your home lab for hands-on DevOps and microservices practice."
 pubDate: "2025-04-01"
 author: "Yash"

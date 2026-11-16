@@ -1,4 +1,5 @@
----title: "Secure Your Home Network with pfSense & VLANs"
+---
+title: "Secure Your Home Network with pfSense & VLANs"
 slug: "secure-home-network-pfsense-vlans"
 date: "2024-06-15"
 description: "Master home network security by deploying pfSense with VLANs — segment traffic, block threats, and control access like a pro. Learn step-by-step."

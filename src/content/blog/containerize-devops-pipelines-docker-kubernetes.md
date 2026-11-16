@@ -1,4 +1,5 @@
----title: "Containerize Your DevOps Pipelines with Docker & Kubernetes"
+---
+title: "Containerize Your DevOps Pipelines with Docker & Kubernetes"
 description: "Learn how to containerize your DevOps pipelines using Docker and Kubernetes for scalable, repeatable, and reliable deployments. Includes architecture, best practices, and real-world examples."
 pubDate: "2025-04-05"
 tags: ["DevOps", "Docker", "Kubernetes", "CI/CD", "Containerization"]

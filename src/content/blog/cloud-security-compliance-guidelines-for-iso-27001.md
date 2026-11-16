@@ -1,4 +1,5 @@
----title: "Ensuring Cloud Security Compliance with ISO 27001: A Step-by-Step Guide"
+---
+title: "Ensuring Cloud Security Compliance with ISO 27001: A Step-by-Step Guide"
 description: "Streamline your cloud security compliance efforts with these actionable ISO 27001 guidelines. Boost your organization's security posture and stay ahead of the curve in this data-driven world."
 pubDate: "2025-04-01"
 author: "Yash"

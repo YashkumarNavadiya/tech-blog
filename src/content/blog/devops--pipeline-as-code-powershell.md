@@ -1,4 +1,5 @@
----title: "Empowering DevOps with Pipeline-as-Code using PowerShell"
+---
+title: "Empowering DevOps with Pipeline-as-Code using PowerShell"
 description: "Harness PowerShell for enterprise pipeline-as-code automation, infrastructure testing, and cross-platform CI/CD integration."
 pubDate: "2025-04-01"
 author: "Yash"

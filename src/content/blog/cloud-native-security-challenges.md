@@ -1,4 +1,5 @@
----title: "Cloud-Native Security Challenges: Navigating Modern DevOps"
+---
+title: "Cloud-Native Security Challenges: Navigating Modern DevOps"
 description: "Explore the critical security challenges of containerized and cloud-native architectures, with practical mitigations for dynamic infrastructure and supply chain risks."
 pubDate: "2025-04-01"
 author: "Yash"

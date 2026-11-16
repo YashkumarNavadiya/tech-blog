@@ -1,4 +1,5 @@
----title: "Enhance Efficiency in DevOps with Pipeline Automation using CI/CD Tools"
+---
+title: "Enhance Efficiency in DevOps with Pipeline Automation using CI/CD Tools"
 description: "Learn how to streamline your DevOps process with pipeline automation using CI/CD tools, ensuring faster releases, reduced errors, and increased efficiency."
 pubDate: "2025-04-01"
 author: "Yash"

@@ -1,4 +1,5 @@
----title: "Container Orchestration with Docker: A Comprehensive Guide"
+---
+title: "Container Orchestration with Docker: A Comprehensive Guide"
 description: "Learn how to orchestrate Docker containers at scale, automate container deployment, manage service discovery, and optimize host resources."
 pubDate: "2025-04-01"
 author: "Yash"

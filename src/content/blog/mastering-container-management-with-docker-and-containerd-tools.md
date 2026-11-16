@@ -1,4 +1,5 @@
----title: "Mastering Container Management with Docker and containerd Tools"
+---
+title: "Mastering Container Management with Docker and containerd Tools"
 description: "Understand the core architecture of Docker and containerd runtimes, container lifecycle management, and CLI debugging tools for production systems."
 pubDate: "2025-04-01"
 author: "Yash"

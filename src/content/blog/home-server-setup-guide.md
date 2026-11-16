@@ -1,4 +1,5 @@
----title: "Home Server Setup Guide: Securing Your Personal Cloud"
+---
+title: "Home Server Setup Guide: Securing Your Personal Cloud"
 description: "Step-by-step instructions for selecting hardware, configuring Linux, securing network access, and establishing a private self-hosted cloud server."
 pubDate: "2025-04-01"
 author: "Yash"

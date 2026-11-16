@@ -1,4 +1,5 @@
----title: "Accelerate Infrastructure Deployment with Automation: A Comprehensive Guide"
+---
+title: "Accelerate Infrastructure Deployment with Automation: A Comprehensive Guide"
 description: "Learn how to automate infrastructure deployment and reduce deployment time, costs, and human error. Discover the benefits, tools, and best practices for automating infrastructure deployment."
 pubDate: "2025-04-01"
 author: "Yash"

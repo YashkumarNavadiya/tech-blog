@@ -1,4 +1,5 @@
----title: "Cloud-Native Security: Best Practices for Secure Cloud Applications"
+---
+title: "Cloud-Native Security: Best Practices for Secure Cloud Applications"
 description: "Stay ahead of security threats with our expert guidelines on cloud-native security. Learn how to protect your cloud applications from data breaches and attacks."
 pubDate: "2025-04-01"
 author: "Yash"

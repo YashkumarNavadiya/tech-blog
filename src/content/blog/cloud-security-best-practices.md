@@ -1,4 +1,5 @@
----title: "Cloud Security Best Practices: Protecting Your Data in the Digital Realm"
+---
+title: "Cloud Security Best Practices: Protecting Your Data in the Digital Realm"
 description: "Stay ahead of cloud security risks with our comprehensive guide to best practices. Learn how to safeguard your data, prevent breaches, and ensure compliance."
 pubDate: "2025-04-01"
 author: "Yash"

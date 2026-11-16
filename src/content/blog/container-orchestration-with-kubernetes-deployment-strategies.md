@@ -1,4 +1,5 @@
----title: "Container Orchestration with Kubernetes: Deployment Strategies"
+---
+title: "Container Orchestration with Kubernetes: Deployment Strategies"
 description: "A deep dive into Kubernetes deployment strategies including Rolling Updates, Blue/Green deployments, and Canary releases for high-availability workloads."
 pubDate: "2025-04-01"
 author: "Yash"
