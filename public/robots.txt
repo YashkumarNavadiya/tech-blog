@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.yashkumarnavadiya.tech/sitemap-index.xml

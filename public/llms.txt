@@ -1,0 +1,16 @@
+# Yash's Tech & DevOps Blog
+
+> In-depth technical architecture breakdowns, infrastructure-as-code patterns, self-hosted services, and cloud systems engineering by Yashkumar Navadiya.
+
+## Core Feeds & Indices
+- [Blog Archive](https://blog.yashkumarnavadiya.tech/blog): Full catalog of technical articles and guides.
+- [RSS Feed](https://blog.yashkumarnavadiya.tech/rss.xml): RSS 2.0 feed of all published articles.
+- [Sitemap](https://blog.yashkumarnavadiya.tech/sitemap-index.xml): XML sitemap index.
+
+## Featured Architecture & Engineering Guides
+- [Configuring ZFS Storage Pool for High Availability](https://blog.yashkumarnavadiya.tech/blog/configuring-zfs-storage-pool-for-high-availability-in-home-servers/): ZFS storage configuration, mirrors vs RAIDZ, pool redundancy, and automated maintenance.
+- [Automating Kubernetes Cluster Deployment with Ansible](https://blog.yashkumarnavadiya.tech/blog/automating-kubernetes-cluster-deployment-with-ansible/): Infrastructure-as-code playbooks for bare-metal and virtualized K8s clusters.
+- [Proxmox VE High Availability Home Lab Setup](https://blog.yashkumarnavadiya.tech/blog/proxmox-ve-high-availability-home-lab-setup/): Multi-node virtualization cluster setup with shared Ceph storage and fencing.
+- [Hardening Docker Containers for Self-Hosted Applications](https://blog.yashkumarnavadiya.tech/blog/hardening-docker-containers-for-self-hosted-applications/): Kernel security, read-only root filesystems, non-root users, and seccomp profiles.
+- [Deploying Traefik Reverse Proxy for Home Lab Services](https://blog.yashkumarnavadiya.tech/blog/deploying-traefik-reverse-proxy-for-home-lab-services/): Dynamic TLS routing, Let's Encrypt automated certificates, and middleware auth.
+- [Securing Home Lab with Fail2ban and SSH Hardening](https://blog.yashkumarnavadiya.tech/blog/securing-home-lab-with-fail2ban-and-ssh-key-restrictions/): Port knocking, Ed25519 key-only authentication, rate limiting, and brute-force ban rules.
