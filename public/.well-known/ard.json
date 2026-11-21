@@ -1,10 +1,49 @@
 {
-  "$schema": "https://json.schemastore.org/web-manifest.json",
-  "name": "Yash's Tech & DevOps Blog",
-  "short_name": "TechBlog",
-  "description": "In-depth technical architecture breakdowns, infrastructure-as-code patterns, self-hosted services, and cloud systems engineering.",
-  "url": "https://blog.yashkumarnavadiya.tech",
-  "llms_txt": "https://blog.yashkumarnavadiya.tech/llms.txt",
-  "feed": "https://blog.yashkumarnavadiya.tech/rss.xml",
-  "sitemap": "https://blog.yashkumarnavadiya.tech/sitemap-index.xml"
+  "specVersion": "0.91",
+  "host": {
+    "displayName": "Yash's Tech & DevOps Blog",
+    "identifier": "blog.yashkumarnavadiya.tech"
+  },
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:blog.yashkumarnavadiya.tech:docs:llms",
+      "displayName": "Tech & DevOps Knowledge Index",
+      "type": "text/markdown",
+      "url": "https://blog.yashkumarnavadiya.tech/llms.txt",
+      "description": "Structured Markdown catalog of 40+ in-depth architecture breakdowns, Kubernetes automation, Proxmox VE, ZFS, and Linux hardening guides for AI agents.",
+      "representativeQueries": [
+        "How to configure ZFS storage pools for high availability in homelabs",
+        "Automating Kubernetes cluster deployment with Ansible playbooks",
+        "How to deploy Traefik reverse proxy with Let's Encrypt certificates",
+        "Hardening Docker containers and Linux against container escape vulnerabilities"
+      ],
+      "trustManifest": {
+        "publisher": "Yashkumar Navadiya",
+        "contact": "mailto:yash@yashkumarnavadiya.tech",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "canonical": "https://blog.yashkumarnavadiya.tech/.well-known/ard.json",
+        "lastUpdated": "2026-11-20"
+      }
+    },
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:blog.yashkumarnavadiya.tech:feed:rss",
+      "displayName": "Tech Blog RSS Feed",
+      "type": "application/rss+xml",
+      "url": "https://blog.yashkumarnavadiya.tech/rss.xml",
+      "description": "Live RSS 2.0 feed of technical articles on cloud engineering, infrastructure-as-code, and homelab architectures.",
+      "representativeQueries": [
+        "Latest articles on DevOps and cloud security",
+        "Recent homelab tutorials and infrastructure guides"
+      ],
+      "trustManifest": {
+        "publisher": "Yashkumar Navadiya",
+        "contact": "mailto:yash@yashkumarnavadiya.tech",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "canonical": "https://blog.yashkumarnavadiya.tech/.well-known/ard.json",
+        "lastUpdated": "2026-11-20"
+      }
+    }
+  ]
 }
