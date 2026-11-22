@@ -232,6 +232,25 @@ print(signal["signal"])
 
 ---
 
+<div class="product-cta-card">
+  <div class="product-cta-badge">⚡ Production Codekit & Toolkit</div>
+  <h3 class="product-cta-title">Quantitative 3-2-1 Crack Spread Arbitrage & Mean-Reversion Backtester in Python</h3>
+  <p class="product-cta-desc">Production-grade Python backtesting suite for refinery 3-2-1 crack spread mean-reversion, Ornstein-Uhlenbeck parameter estimation, and real-time WTI/Gasoline/Heating Oil spread monitoring.</p>
+  <ul class="product-cta-features">
+    <li>Complete Source Code (.py & .ipynb)</li>
+    <li>Sample Market Datasets Included</li>
+    <li>Pre-configured Virtualenv & Requirements</li>
+    <li>Commercial Single-User License</li>
+  </ul>
+  <div class="product-cta-footer">
+    <div class="product-cta-price">$49.00 <span>USD</span></div>
+    <a href="https://yashkumarnavadiya.gumroad.com/l/crack-spread-suite" target="_blank" rel="noopener noreferrer" class="product-cta-btn">
+      Instant Download Access &rarr;
+    </a>
+  </div>
+  <div class="product-cta-trust">🔒 100% Automated Instant Delivery via Gumroad · Verified SHA256 Checksum Included</div>
+</div>
+
 ## Conclusion: The 2026 Market Microstructure Checklist
 
 In 2026, crude oil market microstructure is no longer static — it’s dynamic, data-driven, and algorithmically exploitable.

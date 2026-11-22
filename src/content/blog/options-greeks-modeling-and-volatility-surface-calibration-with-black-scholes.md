@@ -311,6 +311,25 @@ portfolio_pnl = portfolio_value * 0 + portfolio_greeks['delta'] * market_shock[0
 
 ---
 
+<div class="product-cta-card">
+  <div class="product-cta-badge">⚡ Production Codekit & Toolkit</div>
+  <h3 class="product-cta-title">Options Greeks Modeling & Implied Volatility Surface Calibrator</h3>
+  <p class="product-cta-desc">High-performance Black-Scholes Greeks analytics engine with Brent/Newton-Raphson implied volatility root-finding and 3D volatility surface calibration.</p>
+  <ul class="product-cta-features">
+    <li>Complete Source Code (.py & .ipynb)</li>
+    <li>Sample Market Datasets Included</li>
+    <li>Pre-configured Virtualenv & Requirements</li>
+    <li>Commercial Single-User License</li>
+  </ul>
+  <div class="product-cta-footer">
+    <div class="product-cta-price">$49.00 <span>USD</span></div>
+    <a href="https://yashkumarnavadiya.gumroad.com/l/options-greeks-calibrator" target="_blank" rel="noopener noreferrer" class="product-cta-btn">
+      Instant Download Access &rarr;
+    </a>
+  </div>
+  <div class="product-cta-trust">🔒 100% Automated Instant Delivery via Gumroad · Verified SHA256 Checksum Included</div>
+</div>
+
 ## Conclusion: The Power of Black-Scholes in Modern Trading
 
 Despite its limitations, the Black-Scholes model remains the bedrock of options pricing and risk management. Its closed-form Greeks enable fast, deterministic computations — critical for real-time trading and risk engines.

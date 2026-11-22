@@ -409,3 +409,22 @@ Now go build your own production-grade pairs trading system.
 **Published**: November 22, 2026  
 **Tags**: AI, Trading, DevOps  
 **Slug**: statistical-arbitrage-pairs-trading-cointegration-kalman-filters
+
+<div class="product-cta-card">
+  <div class="product-cta-badge">⚡ Production Codekit & Toolkit</div>
+  <h3 class="product-cta-title">Statistical Arbitrage & Kalman Filter Dynamic Hedge Ratio Python Kit</h3>
+  <p class="product-cta-desc">End-to-end quantitative pairs trading engine implementing Engle-Granger cointegration, recursive Kalman Filter dynamic hedge ratios, and mean-reversion execution logic.</p>
+  <ul class="product-cta-features">
+    <li>Complete Source Code (.py & .ipynb)</li>
+    <li>Sample Market Datasets Included</li>
+    <li>Pre-configured Virtualenv & Requirements</li>
+    <li>Commercial Single-User License</li>
+  </ul>
+  <div class="product-cta-footer">
+    <div class="product-cta-price">$49.00 <span>USD</span></div>
+    <a href="https://yashkumarnavadiya.gumroad.com/l/pairs-trading-arbitrage" target="_blank" rel="noopener noreferrer" class="product-cta-btn">
+      Instant Download Access &rarr;
+    </a>
+  </div>
+  <div class="product-cta-trust">🔒 100% Automated Instant Delivery via Gumroad · Verified SHA256 Checksum Included</div>
+</div>
