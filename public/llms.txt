@@ -1,16 +1,33 @@
-# Yash's Tech & DevOps Blog
+# Yash's Tech, AI & Quantitative Research Blog
 
-> In-depth technical architecture breakdowns, infrastructure-as-code patterns, self-hosted services, and cloud systems engineering by Yashkumar Navadiya.
+> In-depth technical architecture breakdowns, sovereign artificial intelligence, algorithmic trading, quantitative commodities microstructure, and cloud systems engineering by Yashkumar Navadiya.
 
 ## Core Feeds & Indices
-- [Blog Archive](https://blog.yashkumarnavadiya.tech/blog): Full catalog of technical articles and guides.
+- [Blog Archive](https://blog.yashkumarnavadiya.tech/blog): Full catalog of 70+ technical and quantitative engineering articles.
 - [RSS Feed](https://blog.yashkumarnavadiya.tech/rss.xml): RSS 2.0 feed of all published articles.
-- [Sitemap](https://blog.yashkumarnavadiya.tech/sitemap-index.xml): XML sitemap index.
+- [Sitemap Index](https://blog.yashkumarnavadiya.tech/sitemap-index.xml): XML sitemap index.
+- [About Author](https://blog.yashkumarnavadiya.tech/about): Bio, credentials, and technical specialization.
 
-## Featured Architecture & Engineering Guides
-- [Configuring ZFS Storage Pool for High Availability](https://blog.yashkumarnavadiya.tech/blog/configuring-zfs-storage-pool-for-high-availability-in-home-servers/): ZFS storage configuration, mirrors vs RAIDZ, pool redundancy, and automated maintenance.
-- [Automating Kubernetes Cluster Deployment with Ansible](https://blog.yashkumarnavadiya.tech/blog/automating-kubernetes-cluster-deployment-with-ansible/): Infrastructure-as-code playbooks for bare-metal and virtualized K8s clusters.
-- [Proxmox VE High Availability Home Lab Setup](https://blog.yashkumarnavadiya.tech/blog/proxmox-ve-high-availability-home-lab-setup/): Multi-node virtualization cluster setup with shared Ceph storage and fencing.
-- [Hardening Docker Containers for Self-Hosted Applications](https://blog.yashkumarnavadiya.tech/blog/hardening-docker-containers-for-self-hosted-applications/): Kernel security, read-only root filesystems, non-root users, and seccomp profiles.
-- [Deploying Traefik Reverse Proxy for Home Lab Services](https://blog.yashkumarnavadiya.tech/blog/deploying-traefik-reverse-proxy-for-home-lab-services/): Dynamic TLS routing, Let's Encrypt automated certificates, and middleware auth.
-- [Securing Home Lab with Fail2ban and SSH Hardening](https://blog.yashkumarnavadiya.tech/blog/securing-home-lab-with-fail2ban-and-ssh-key-restrictions/): Port knocking, Ed25519 key-only authentication, rate limiting, and brute-force ban rules.
+## Sovereign AI & High-Throughput Inference
+- [High-Throughput Local LLM Serving with vLLM PagedAttention](https://blog.yashkumarnavadiya.tech/blog/high-throughput-local-llm-serving-with-vllm-pagedattention-and-continuous-batching/): Continuous batching, GPU kernel optimization, and benchmark throughput.
+- [Deploying Sovereign AI Agents with MCP and Local LLMs](https://blog.yashkumarnavadiya.tech/blog/deploying-sovereign-ai-agents-with-local-llms-and-model-context-protocol-mcp/): Air-gapped agentic orchestration and secure tool execution.
+- [Implementing Hybrid Semantic RAG with Qdrant Vector Search](https://blog.yashkumarnavadiya.tech/blog/implementing-hybrid-semantic-rag-with-qdrant-vector-search-and-bm25-reranking/): Reciprocal rank fusion and dense embedding retrieval.
+- [Fine-Tuning Llama 3 and Qwen Models with Unsloth and QLoRA](https://blog.yashkumarnavadiya.tech/blog/fine-tuning-llama-3-and-qwen-models-with-unsloth-and-qlora-on-consumer-gpus/): 4-bit quantization, gradient checkpointing, and parameter-efficient tuning.
+
+## Quantitative Finance & Algorithmic Trading
+- [Real-Time Stock Market Data Ingestion via WebSockets and Order Book Microstructure](https://blog.yashkumarnavadiya.tech/blog/real-time-stock-market-data-ingestion-via-websockets-and-order-book-microstructure/): L2/L3 order book reconstruction, market depth, and microsecond latency pipelines.
+- [Options Greeks Modeling and Volatility Surface Calibration with Black-Scholes](https://blog.yashkumarnavadiya.tech/blog/options-greeks-modeling-and-volatility-surface-calibration-with-black-scholes/): Implied volatility smile, Delta/Gamma hedging, and numerical root-finding.
+- [Statistical Arbitrage and Pairs Trading with Cointegration and Kalman Filters](https://blog.yashkumarnavadiya.tech/blog/statistical-arbitrage-and-pairs-trading-with-cointegration-and-kalman-filters/): Engle-Granger two-step test, dynamic hedge ratios, and mean-reversion execution.
+- [Portfolio Optimization with Modern Portfolio Theory and Markowitz Efficient Frontier](https://blog.yashkumarnavadiya.tech/blog/portfolio-optimization-with-modern-portfolio-theory-and-markowitz-efficient-frontier-in-python/): Quadratic programming, Sharpe maximization, and covariance shrinkage.
+
+## Commodities, Metals & Energy Markets
+- [Gold & Silver Sovereign Macro Arbitrage: Real Yields and Central Bank Flows](https://blog.yashkumarnavadiya.tech/blog/gold-and-silver-sovereign-macro-arbitrage-real-yields-central-bank-reserve-shifts-and-volatility-hedging/): 10-Year TIPS inverse correlation, liquidity regime shifts, and sovereign reserve shifts.
+- [Crude Oil Market Microstructure: Brent vs WTI Spreads and OPEC+ Quotas](https://blog.yashkumarnavadiya.tech/blog/crude-oil-market-microstructure-analyzing-brent-vs-wti-spreads-opec-quotas-and-refinery-crack-margins/): Cushing physical storage, tanker logistics, and OPEC+ supply constraints.
+- [Copper & Critical Minerals: Physical Supply Bottlenecks Behind AI Datacenters](https://blog.yashkumarnavadiya.tech/blog/copper-and-critical-minerals-physical-supply-bottlenecks-behind-ai-datacenter-electrification/): Grid electrification demand, smelter fee dynamics, and supply elasticity.
+- [Quantitative Energy Trading: Backtesting 3-2-1 Crack Spread Arbitrage](https://blog.yashkumarnavadiya.tech/blog/quantitative-energy-trading-backtesting-3-2-1-crack-spread-arbitrage-and-mean-reversion-in-python/): Refinery crack spread modeling and Ornstein-Uhlenbeck mean-reversion.
+
+## Cloud Infrastructure & Linux Hardening
+- [Configuring ZFS Storage Pool for High Availability](https://blog.yashkumarnavadiya.tech/blog/configuring-zfs-storage-pool-for-high-availability-in-home-servers/): Redundant pool layout, scrubbing, and automated snapshots.
+- [Automating Kubernetes Cluster Deployment with Ansible](https://blog.yashkumarnavadiya.tech/blog/automating-kubernetes-cluster-deployment-with-ansible/): Bare-metal control planes, CNI plugins, and worker join workflows.
+- [Proxmox VE High Availability Cluster Architecture](https://blog.yashkumarnavadiya.tech/blog/proxmox-ve-high-availability-home-lab-setup/): Quorum configuration, Ceph distributed storage, and failover fencing.
+- [Hardening Docker Containers for Self-Hosted Applications](https://blog.yashkumarnavadiya.tech/blog/hardening-docker-containers-for-self-hosted-applications/): Seccomp, AppArmor, non-root user namespaces, and read-only mounts.

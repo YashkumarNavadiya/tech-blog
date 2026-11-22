@@ -1,4 +1,20 @@
 User-agent: *
 Allow: /
+Allow: /_astro/
+Allow: /blog/
 
+# Major Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Canonical Sitemap Index
 Sitemap: https://blog.yashkumarnavadiya.tech/sitemap-index.xml
