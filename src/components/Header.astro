@@ -12,6 +12,9 @@ import HeaderLink from './HeaderLink.astro';
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
+			<a href="https://market.yashkumarnavadiya.tech" target="_blank" rel="noopener noreferrer" class="market-nav-pill">
+				<span class="live-dot"></span> Live Market
+			</a>
 		</div>
 		<div class="social-links">
 			<a href="https://yashkumarnavadiya.tech" target="_blank" rel="noopener noreferrer" title="Main Portfolio">
@@ -74,6 +77,31 @@ import HeaderLink from './HeaderLink.astro';
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 		color: var(--accent);
+	}
+	.market-nav-pill {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+		background: #0f172a;
+		color: #38bdf8 !important;
+		padding: 0.3em 0.8em !important;
+		border-radius: 9999px;
+		font-size: 0.85em;
+		font-weight: 600;
+		border: 1px solid rgba(56, 189, 248, 0.3) !important;
+		transition: all 0.2s ease;
+	}
+	.market-nav-pill:hover {
+		background: #0284c7;
+		color: #ffffff !important;
+	}
+	.live-dot {
+		width: 7px;
+		height: 7px;
+		background-color: #22c55e;
+		border-radius: 50%;
+		display: inline-block;
+		box-shadow: 0 0 8px #22c55e;
 	}
 	.social-links {
 		display: flex;
